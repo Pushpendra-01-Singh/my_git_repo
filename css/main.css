@@ -1,0 +1,221 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.mainmenu {
+    background: #fff;
+    border: none;
+    box-shadow: none;
+    border-radius: 3px 3px 0 0;
+    display: block;
+    margin-bottom: -1px;
+    min-height: 28px;
+}
+.mainmenu .nav-tabs {
+    padding: 0 0 10px 20px;
+    position: relative;
+    bottom: -18px;
+}
+.social-icons {
+    float: left;
+    font-size: 16px;
+    /* margin-top: 14px; */
+    margin-left: 40px;
+}
+.header-top {
+    padding: 26px 0;
+}
+.logo {
+    float: left;
+    width: 242px;
+    margin: 0;
+    padding-top: 5px;
+}
+
+.logo_1
+{
+    float: left;
+    width: 400px;
+    margin: 0;
+}
+
+.menu_style
+{
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 14px;
+}
+
+.hr-bold {
+    border-bottom: 3px solid #bdbdbd;
+    margin-bottom: 30px;
+}
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.post-thumbnail-1, .post-thumbnail-2, .post-thumbnail-3 {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 15px;
+}
+
+.tag-style-1, .tag-style-2 {
+    left: 0;
+    top: 10px;
+    z-index: 2;
+}
+.tag-style-1, .tag-style-2, .post-thumbnail-1 .meta-tags, .post-thumbnail-3 .meta-tags, .post-thumbnail-1 h3, .post-thumbnail-2 h3 {
+    position: absolute;
+}
+
+.tag-style-1 p, .tag-style-2 p {
+    background: #e84c4c;
+    float: left;
+    text-transform: uppercase;
+}
+.slider-wrapper .post-thumbnail-1 .meta-tags {
+    padding-left: 38px;
+}
+.post-thumbnail-1 .meta-tags, .post-thumbnail-3 .meta-tags {
+    background: rgba(40,40,40,.7);
+    bottom: 0;
+    left: 0;
+    margin-bottom: 0;
+    padding: 8px 0 13px 20px;
+    width: 100%;
+}
+
+.pad-t-20 { padding-top:20px}
+.mar-t-0 { margin-top: 0px}
+
+.post-thumbnail-1:hover .tag-style-2, .post-thumbnail-2:hover .tag-style-2, .post-thumbnail-3:hover .tag-style-2, .ms-listing .post-thumbnail-1:hover .tag-style-1, .ms-listing .post-thumbnail-2:hover .tag-style-1, .ms-listing .post-thumbnail-3:hover .tag-style-1 {
+    transform: none;
+    -moz-transform: none;
+    /* -webkit-transform: none; */
+    -o-transform: none;
+    -ms-transform: none;
+}
+.slider-sidebar-wrapper .tag-style-2 {
+    transform: translateX(-200px);
+    -moz-transform: translateX(-200px);
+    -webkit-transform: translateX(-200px);
+    -o-transform: translateX(-200px);
+    -ms-transform: translateX(-200px);
+}
+.slider-sidebar-wrapper .tag-style-2, .tag-style-2, .ms-listing .tag-style-1 {
+    transition: opacity 0.35s, transform 0.35s;
+    -moz-transition: opacity 0.35s, -moz-transform 0.35s;
+    /* -webkit-transition: opacity 0.35s, -webkit-transform 0.35s; */
+    -o-transition: opacity 0.35s, -o-transform 0.35s;
+}
+.tag-style-2, .ms-listing .tag-style-1 {
+    transform: translateX(-300px);
+    -moz-transform: translateX(-300px);
+    -webkit-transform: translateX(-300px);
+    -o-transform: translateX(-300px);
+    -ms-transform: translateX(-300px);
+}
+
+.sidebar-widget {
+    margin-bottom: 50px;
+
+
+.twitter_icon
+{
+    background: #28a4c9;
+    color: white
+}
+
+.facebook_icon
+{
+    background: #337ab7;
+    color: white;
+    width: 38px ;
+    height: 32px ;
+    text-align: center ;
+    padding: 5px;
+}
+
+.google_icon
+{
+    background: #ff3e3e;
+    color: white;
+    width: 38px ;
+    height: 32px ;
+    text-align: center ;
+    padding: 5px;
+}
+
+.rss_icon
+{
+    background:#f3b500;
+    color: white;
+    width: 38px ;
+    height: 32px ;
+    text-align: center ;
+    padding: 5px;
+}
+
+.pinterest_icon
+{
+    background: #f90000;
+    color: white;
+    width: 38px ;
+    height: 32px ;
+    text-align: center ;
+    padding: 5px;
+}
+
+.borderstyle{
+    border-radius: 50%;
+    
+    
+    
+}
+
+
+.linkstyle
+{
+  box-sizing: border-box;
+  padding:2px;  
+
+}
+
+.Margin_padding{
+width: 180px;
+height: 57px;
+    
+}
+
+.ul_margin_padding{
+    border-bottom: 3px solid #bdbdbd;
+    margin-bottom: 30px;
+    padding-bottom: 54px;
+}
+
+.article_format{
+    border-bottom: 1px solid #dcdcdc;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+}
+
+.meta_tags {
+    line-height: 14px;
+    margin-bottom: 8px;
+}
+
+.fig_size{
+    height: 90px;
+    width : 60px;
+}
+
+
+
+
+
+
+
